@@ -4,4 +4,5 @@ crypto-js
 file look like
 
 IV=test
+
 KEY=test
